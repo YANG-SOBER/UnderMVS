@@ -36,11 +36,11 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="https://github.com/YANG-SOBER/UwMVS" style="color: white; text-decoration: none;">Dataset and Code</a>
+<a href="https://github.com/YANG-SOBER/UwMVS/tree/main" style="color: white; text-decoration: none;">Dataset and Code</a>
 </button>
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="https://drive.google.com/file/d/1PmyY2Q4IqfwJe6e0VqSbXOzWym4WclSz/view?usp=sharing" style="color: white; text-decoration: none;">Appendix</a>
+<a href="https://drive.google.com/file/d/1TM2nxeo7uJHE6hsnCJ9WVG1hUT-pkwbE/view?usp=sharing" style="color: white; text-decoration: none;">Appendix</a>
 </button>
 
 </div>
