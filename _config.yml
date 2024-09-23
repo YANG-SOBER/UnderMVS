@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction"
+title: "Towards End-to-End Underwater Multi-View Stereo for Real-World Dense Scene Reconstruction"
 title_separator: "-"
 name: &name "End-to-End Underwater Multi-View Stereo"
 description: &description "End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction"
