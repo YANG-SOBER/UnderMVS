@@ -18,9 +18,9 @@ layout: single
   }
 </style>
 
-<h1 style="text-align: center; font-size: 36px; font-family: 'system-ui';">Towards End-to-End Underwater Multi-View Stereo: Physically-Guided Image Synthesis and Geometric Encoding for Real-World Dense Scene Reconstruction</h1>
+<h1 style="text-align: center; font-size: 36px; font-family: 'system-ui';">Towards End-to-End Underwater Multi-View Stereo for Real-World Dense Scene Reconstruction</h1>
 <h2  style="text-align: center; font-size: 18px; font-family: 'Sama Devanagari';">
-    Submitted to IEEE Transactions on Industrial Informatics (TII)
+    Submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 </h2>
 
 
@@ -47,5 +47,5 @@ layout: single
 </div>
 
 <div style="text-align: justify">
-We would like to express our gratitude to the editors and reviewers of TII for their time, efforts, and constructive comments.
+We would like to express our gratitude to the editors and reviewers for their time, efforts, and constructive comments.
 </div>
