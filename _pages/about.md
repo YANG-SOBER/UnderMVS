@@ -26,7 +26,7 @@ layout: single
 
 <div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center"> 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="https://github.com/YANG-SOBER/UwMVS/tree/main" style="color: white; text-decoration: none;">Dataset and Code</a>
+<a href="https://github.com/YANG-SOBER/UwMVS/tree/main" style="color: white; text-decoration: none;">Dataset</a>
 </button>
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
